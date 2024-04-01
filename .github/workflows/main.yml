@@ -27,8 +27,8 @@ jobs:
 
       - name: Run schemachange
         env:
-          SF_ACCOUNT: c031985.aws_us_east_2
-          SF_USERNAME: bshaw34
+          SF_ACCOUNT: tbhzvcl-fa70091
+          SF_USERNAME: BSHAW34
           SF_ROLE: ACCOUNTADMIN
           SF_WAREHOUSE: COMPUTE_WH
           SF_DATABASE: DEMO
